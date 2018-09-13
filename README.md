@@ -4,7 +4,7 @@ Helps user track oil changes in a mobile setting.
 
 ## Project Description: ##
 
-- Garage Manager -
+Garage Manager -
 A mobile app that allows users to add any number of vehicles to their “Garage”. Allowing the user to keep track of consumables for the vehicle, as well as keeping track of specifics, such as oil weight and tire size. And a notes section to help them keep track of when they did certain services, what type of tires, etc.
 
 
