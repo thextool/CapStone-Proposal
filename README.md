@@ -1,14 +1,14 @@
-Capstone Project Proposal
-Project Description:
-
-MVP:
+## Capstone Project Proposal ##
+## MVP: ##
 Helps user track oil changes in a mobile setting.
+
+## Project Description: ##
 
 - Garage Manager -
 A mobile app that allows users to add any number of vehicles to their “Garage”. Allowing the user to keep track of consumables for the vehicle, as well as keeping track of specifics, such as oil weight and tire size. And a notes section to help them keep track of when they did certain services, what type of tires, etc.
 
 
-Problem Statement:
+## Problem Statement: ##
 
 Like many DIYers, I greatly enjoy servicing my own vehicles, and the vehicles of my friends. But like almost everyone, I struggle to keep track of all the specific little things my vehicles need, let alone the parts for all the random vehicles that end up in my garage on the weekends.
 
@@ -16,11 +16,11 @@ Picture this, you are in the back of an auto parts store, you are staring at a w
 
 You finally have to cave in and go to the man with the computer and tell him what you are looking for. He quickly pecks at his keyboard and tells you which item you need. You buy it, drive 15-30 minutes home, and start taking apart your car. You get to the filter and its the wrong one (maybe for a 4 cylinder motor instead of the 6 cylinder). Now you have to go back, but you have no way of getting to the shop because you already took the car apart. If you have ever done work on your own vehicle, this is a very easy thing to picture, it has happened to all of us at least once. I want to fix that.
 
-Problem Solution:
+## Problem Solution: ##
 
 I would like to develop a mobile app, that allows the user to build multiple pages, one per vehicle they work on. It will have multiple drop down sections, with easy data entry points, as well as sections to keep notes and logs of work performed or important / helpful notes. This will allow users to quickly and easily keep track of all the specific items they use as they jump from vehicle to vehicle. They can just simply fill in the information as they work, avoiding any inconvenience in the future. Nobody knows your vehicle like you do, and now you don’t have to hope they do.
 
-5 user stories (at least):
+## User Stories (First Iteration): ##
 
 User can login
 	-User starts at login screen where they can type in their username and password, or sign-up, creating a new account. Would like to get fully functioning auth. (Stretch)
@@ -37,18 +37,19 @@ User can remove vehicles if they no longer want them in “Garage”
 User can use map to find local shops for parts/ service (Stretch Goal)
  	-If you are unfamiliar with the area in which you are working on your vehicle, you can pull up a map within the app and search for nearby shops.
 
-Planned Technologies:
+## Planned Technologies: ##
 
 (This list may change slightly)
 React Native, PorstgreSQL, Knex, Node, CSS3, HTML5, JavaScript, Postman, Firebase, Heroku, Android App store, GitHub, BootStrap / Materialize, Leaflet. 
 
-ERD - Entity Relationship Diagram:
+## ERD - Entity Relationship Diagram: ##
 
+See .png file
+-ERD.png
 
+## Wireframes: ##
 
-Wireframes:
-
-See .png images
+See .png files
 -LandingPage
 -NewUser
 -MyGarage
@@ -56,7 +57,7 @@ See .png images
 -SpecificVehicle
 -SpecificVehicleCont
 
-Other Notes
+## Other Notes ##
 DataBase:
 -Profile,
 -Vehicle List,
